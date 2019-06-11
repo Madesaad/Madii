@@ -1,0 +1,6 @@
+owner=550028621264453653
+prefix=m
+game=Madii Bot Private
+stayinchannel=true
+songinstatus=false
+token=NTg3ODUyMjE4NjYxNjAxMjgw.XP8m0g.REqfHfb0UUY9n9_ejw5lmCLDPcg
